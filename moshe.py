@@ -1,8 +1,1 @@
-print("Hi my name is Moshe Arzuan, and we missef a flight because we fall asleep in the airport")
-
-def conflict():
-    print("Enter a childhood story: ")
-    childhoodStory = input()
-    print("Let me tell you a childhood story: " + childhoodStory)
-
-#print_childhoodStory()
+print("Hi my name is Moshe Arzuan, and we missed a flight because we fall asleep in the airport")
